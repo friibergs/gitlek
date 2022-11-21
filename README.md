@@ -16,3 +16,5 @@ Vi övar inför **labb 1**.
 [google](https://www.google.se/ "allas favoritsida")
 
 :smiley:
+
+![en pumpa](pumpa.jpg)
