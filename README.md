@@ -14,3 +14,5 @@ Vi övar inför **labb 1**.
 3. tredje rad i listan
 
 [google](https://www.google.se/ "allas favoritsida")
+
+:smiley:
