@@ -8,3 +8,7 @@ Vi övar inför **labb 1**.
 
 > I detta block kan man skriva vad tusan man vill helt enkelt. Eller lägga till en länk kanske? 
 
+```
+1. första rad i listan
+2. andra rad i listan
+3. tredje rad i listan
