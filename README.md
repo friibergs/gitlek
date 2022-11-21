@@ -12,3 +12,5 @@ Vi övar inför **labb 1**.
 1. första rad i listan
 2. andra rad i listan
 3. tredje rad i listan
+
+[google](https://www.google.se/ "allas favoritsida")
